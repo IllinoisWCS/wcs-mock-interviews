@@ -9,3 +9,5 @@ templates for testing mock interview functions
 [java](https://repl.it/@myc2/java-coding-interview#Main.java)
 
 [javascript](https://repl.it/@myc2/javascript-coding-interview#index.js)
+
+[c](https://repl.it/@myc2/c-coding-interview#main.c)
